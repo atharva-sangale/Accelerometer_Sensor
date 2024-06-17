@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Accelerometer_Sensor</string>
+    <string name="SS">Sensor service is not detective</string>
+    <string name="sensor_services">sensor service is not detected</string>
+    <string name="mss">mobile screen is on the z direction</string>
+    <string name="ms">phone</string>
+    <string name="mssss">this is new phone</string>
+</resources>
