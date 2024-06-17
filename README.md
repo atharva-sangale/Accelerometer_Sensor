@@ -1,1 +1,2 @@
 To create an accelerometer sensor application in Android Studio using Java, first implement SensorEventListener in your activity. Obtain the SensorManager and accelerometer sensor in onCreate(). Register the sensor listener in onResume() and unregister it in onPause(). Override onSensorChanged() to handle accelerometer data. Finally, update the UI or perform actions based on the accelerometer readings.
+Accelerometer sensor application is used to rotate the video screen in mobile is based on x,y,z axis
